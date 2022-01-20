@@ -1,8 +1,6 @@
 # Stock Price Predictor
-*Udacity - Machine learning Nano Degree Program : Project-6 (Capstone project)*
 
 ## Project Overview
-*This is sixth and final capstone project in the series of the projects listed in Udacity- Machine Learning Nano Degree Program.*
 
 Investment firms, hedge funds and even individuals have been using financial models to better understand market behavior and make profitable investments and trades. A wealth of information is available in the form of historical stock prices and company performance data, suitable for machine learning algorithms to process.
 
